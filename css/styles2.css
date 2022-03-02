@@ -1,0 +1,68 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: white;
+   /* only top border with dotted and make other borders none */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;  /* 5% of the entire width of the web page */
+}
+
+/* change the text color */
+h1 {
+  color: #66BFBF
+}
+
+h3 {
+  color: #66BFBF
+}
+
+img {
+  height: 200px;
+}
+
+.uw {
+  margin-top: 20px;
+}
+
+.work {
+  margin-top: 50px;
+}
+
+.body {
+  width: 50%;
+}
+
+.location1 {
+  position:absolute;
+  left:848px;
+}
+
+.time1 {
+  position:absolute;
+  left:814px;
+}
+
+.location2 {
+  position:absolute;
+  left:848px;
+}
+
+.time2 {
+  position:absolute;
+  left:810px;
+}
+
+.location3 {
+  position:absolute;
+  left:824px;
+}
+
+.time3 {
+  position:absolute;
+  left:814px;
+}
