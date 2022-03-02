@@ -34,35 +34,35 @@ img {
 }
 
 .body {
-  width: 50%;
+  width: 80%;
 }
 
 .location1 {
   position:absolute;
-  left:848px;
+  right:2rem;
 }
 
 .time1 {
   position:absolute;
-  left:814px;
+  right:2rem;
 }
 
 .location2 {
   position:absolute;
-  left:848px;
+  right:2rem;
 }
 
 .time2 {
   position:absolute;
-  left:810px;
+  right:2rem;
 }
 
 .location3 {
   position:absolute;
-  left:824px;
+  right:2rem;
 }
 
 .time3 {
   position:absolute;
-  left:814px;
+  right:2rem;
 }
