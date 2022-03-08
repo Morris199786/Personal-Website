@@ -7,6 +7,7 @@ body {
   /* monospace: when each of the characters inside the text take up the
   same amount of width */
   font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
   color: #40514E;
 }
 
